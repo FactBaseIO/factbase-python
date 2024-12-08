@@ -6,4 +6,6 @@ The official Python SDK for FactBase.io.
 
 To install the FactBase Python SDK, use `pip`:
 
+```
 pip install factbase
+```
